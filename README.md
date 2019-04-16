@@ -11,9 +11,8 @@ Color theme converted from [Aqua Theme](https://github.com/cafarm/aqua-theme) fo
 
 ## Installation
 
-1. Download `vscode-aqua-theme-${version}.vsix` by `git clone` or ZIP.
-2. Select the `.vsix` file from Visual Studio Code's "Extensions" -> "Import from VSIX ...".
-3. Select the desired theme name from "Color Theme" in the command palette.
+1. Install "Aqua Theme" from Extensions menu
+2. Select the desired theme name from "Color Theme" in the command palette.
 
 ## License
 
