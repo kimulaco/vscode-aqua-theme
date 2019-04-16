@@ -1,0 +1,53 @@
+{
+  "name": "vscode-aqua-theme",
+  "displayName": "Aqua Theme",
+  "description": "Color theme converted from Aqua Theme for Visual Studio Code.",
+  "publisher": "kimulaco",
+  "version": "0.1.0",
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Light Theme",
+    "Aqua Theme",
+    "ProKit",
+    "AppKit",
+    "Espresso Aqua",
+    "Tomorrow Aqua",
+    "Monokai Aqua",
+    "Tomorrow Night Aqua"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kimulaco/vscode-aqua-theme"
+  },
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Espresso Aqua",
+        "uiTheme": "vs",
+        "path": "./themes/EspressoAqua/EspressoAqua-color-theme.json"
+      },
+      {
+        "label": "Monokai Aqua",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MonokaiAqua/MonokaiAqua-color-theme.json"
+      },
+      {
+        "label": "Tomorrow Aqua",
+        "uiTheme": "vs",
+        "path": "./themes/TomorrowAqua/TomorrowAqua-color-theme.json"
+      },
+      {
+        "label": "Tomorrow Night Aqua",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TomorrowNightAqua/TomorrowNightAqua-color-theme.json"
+      }
+    ]
+  }
+}
