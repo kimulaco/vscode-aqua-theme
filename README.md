@@ -4,10 +4,10 @@ Color theme converted from [Aqua Theme](https://github.com/cafarm/aqua-theme) fo
 
 - Light Theme
     - `Espresso Aqua`
-    - `Tomorrow Night Aqua`
+    - `Tomorrow Aqua`
 - Dark Theme
     - `Monokai Aqua`
-    - `Tomorrow Aqua`
+    - `Tomorrow Night Aqua`
 
 ## Installation
 
