@@ -1,4 +1,4 @@
-# vscode-aqua-theme
+# Aqua Theme
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/kimulaco.vscode-aqua-theme.svg)](https://marketplace.visualstudio.com/items?itemName=kimulaco.vscode-aqua-theme)
 

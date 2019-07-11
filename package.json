@@ -30,10 +30,6 @@
   "categories": [
     "Themes"
   ],
-  "galleryBanner": {
-    "color": "#ededed",
-    "theme": "light"
-  },
   "contributes": {
     "themes": [
       {
@@ -57,5 +53,10 @@
         "path": "./themes/TomorrowNightAqua/TomorrowNightAqua-color-theme.json"
       }
     ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#ededed",
+    "theme": "light"
   }
 }
