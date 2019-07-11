@@ -11,6 +11,24 @@ Color theme converted from [Aqua Theme](https://github.com/cafarm/aqua-theme) fo
     - `Monokai Aqua`
     - `Tomorrow Night Aqua`
 
+## Screenshot
+
+### Espresso Aqua
+
+![](./screenshot/EspressoAqua.png)
+
+### Tomorrow Aqua
+
+![](./screenshot/TomorrowAqua.png)
+
+### Monokai Aqua
+
+![](./screenshot/MonokaiAqua.png)
+
+### Tomorrow Night Aqua
+
+![](./screenshot/TomorrowNightAqua.png)
+
 ## Installation
 
 1. Install "Aqua Theme" from Extensions menu.
