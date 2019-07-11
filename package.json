@@ -21,6 +21,9 @@
     "type": "git",
     "url": "https://github.com/kimulaco/vscode-aqua-theme"
   },
+  "bugs": {
+    "url": "https://github.com/kimulaco/vscode-aqua-theme/issues"
+  },
   "engines": {
     "vscode": "^1.33.0"
   },
