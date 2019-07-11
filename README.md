@@ -1,5 +1,7 @@
 # vscode-aqua-theme
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/kimulaco.vscode-aqua-theme.svg)](https://marketplace.visualstudio.com/items?itemName=kimulaco.vscode-aqua-theme)
+
 [Aqua Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=kimulaco.vscode-aqua-theme)
 
 Color theme converted from [Aqua Theme](https://github.com/cafarm/aqua-theme) for Visual Studio Code.
