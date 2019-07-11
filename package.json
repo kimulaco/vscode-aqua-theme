@@ -27,6 +27,10 @@
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#ededed",
+    "theme": "light"
+  },
   "contributes": {
     "themes": [
       {
