@@ -7,11 +7,11 @@
 Color theme converted from [Aqua Theme](https://github.com/cafarm/aqua-theme) for Visual Studio Code.
 
 - Light Theme
-    - `Espresso Aqua`
-    - `Tomorrow Aqua`
+    - Espresso Aqua
+    - Tomorrow Aqua
 - Dark Theme
-    - `Monokai Aqua`
-    - `Tomorrow Night Aqua`
+    - Monokai Aqua
+    - Tomorrow Night Aqua
 
 ## Screenshot
 
