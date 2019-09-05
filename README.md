@@ -17,19 +17,19 @@ Color theme converted from [Aqua Theme](https://github.com/cafarm/aqua-theme) fo
 
 ### Espresso Aqua
 
-![](./screenshot/EspressoAqua.png)
+![Espresso Aqua capture.](./screenshot/EspressoAqua.png)
 
 ### Tomorrow Aqua
 
-![](./screenshot/TomorrowAqua.png)
+![Tomorrow Aqua capture.](./screenshot/TomorrowAqua.png)
 
 ### Monokai Aqua
 
-![](./screenshot/MonokaiAqua.png)
+![Monokai Aqua capture.](./screenshot/MonokaiAqua.png)
 
 ### Tomorrow Night Aqua
 
-![](./screenshot/TomorrowNightAqua.png)
+![Tomorrow Night Aqua capture.](./screenshot/TomorrowNightAqua.png)
 
 ## Installation
 
