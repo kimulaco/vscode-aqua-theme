@@ -1,0 +1,8 @@
+{
+  "name": "vscode-aqua-theme",
+  "type": {
+    "string": "string",
+    "number": 1000,
+    "boolean": true
+  }
+}

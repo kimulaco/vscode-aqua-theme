@@ -2,6 +2,14 @@
 
 Notable changes to the "Aqua Theme" extension are be documented in this file.
 
+## 1.1.1 (2019-09-10)
+
+- Update README and CHANGELOG
+
+## 1.1.0 (2019-09-10)
+
+- Fix invalid color in light theme.
+
 ## 1.0.0 (2019-07-12)
 
 - Release color theme

@@ -156,7 +156,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
