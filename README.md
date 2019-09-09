@@ -6,17 +6,19 @@
 
 Color theme converted from [Aqua Theme](https://github.com/cafarm/aqua-theme) for Visual Studio Code.
 
+## Installation
+
+1. Install **Aqua Theme** from Extensions menu.
+2. Select the desired theme name from **Color Theme** in the command palette.
+
+## Themes
+
 - Light Theme
     - Espresso Aqua
     - Tomorrow Aqua
 - Dark Theme
     - Monokai Aqua
     - Tomorrow Night Aqua
-
-## Installation
-
-1. Install "Aqua Theme" from Extensions menu.
-2. Select the desired theme name from "Color Theme" in the command palette.
 
 ## Screenshot
 
